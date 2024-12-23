@@ -1,10 +1,8 @@
 <div align="center">
-  <img src="assets/thecat.gif" width=875>
+  <img src="assets/cat.gif" width=875>
   <hr>
   <a href="https://github.com/Schrodingers-B0X"><img src="https://komarev.com/ghpvc/?username=Schrodingers-B0X&color=brightgreen&style=for-the-badge"/><a/>
   <a href="./LICENSE"><img src="https://img.shields.io/github/license/Schrodingers-B0X/Schrodingers-B0X?style=for-the-badge&color=brightgreen"/></a>
-  <a href=README.it.md><img src="assets/it.svg" width=190></a>
-  <a href=README.es.md><img src="assets/es.svg" width=188></a>
   <hr>
   <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Schrodingers-B0X&theme=matrix&rank=-B&column=-1" alt="Schrodingers-B0X"/></a></p>
 </div>  
@@ -12,9 +10,9 @@
 <hr>
 
 <div align="center">
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=7000&pause=1000&color=00FF2B&center=true&vCenter=true&repeat=false&random=false&width=1000&lines=About+me%3A" alt="Typing SVG"/></a>
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=00FF2B&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=950&height=75&lines=WANTED+DEAD+%26+ALIVE" alt="Typing SVG" /></a>
-
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=7000&pause=1000&color=00FF2B&center=true&vCenter=true&repeat=false&random=false&width=1000&lines=About+me%3A" alt="Typing SVG"/></a>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF2B&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=950&height=75&lines=WANTED+DEAD+%26+ALIVE" alt="Typing SVG"/></a>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF2B&center=true&vCenter=true&width=1000&height=150&lines=I%27ll+always+be+weird+to+anyone+under+the+illusion+that+they+understand+normal.;%22The+important+thing+is+to+never+stop+questioning%22" alt="Typing SVG"/></a>
   <details>
     <summary><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF2B&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=850&lines=Top+Repositories:" alt="Typing SVG" /></a></summary>
     
