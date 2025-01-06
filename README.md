@@ -90,6 +90,13 @@
     <sub>StreamMaine</sub>
   </a>
 </td>
+<td align="center">
+  <a href="https://github.com/kdrebranding">
+    <img src="https://avatars.githubusercontent.com/u/185684350" width="75px" alt="kdrebranding" />
+    <br />
+    <sub>kdrebranding</sub>
+  </a>
+</td>
 </tr>
 </table>
 
