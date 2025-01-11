@@ -77,6 +77,13 @@
 <!--START_SECTION:followers-->
 <table>
   <tr><td align="center">
+  <a href="https://github.com/djvelimir">
+    <img src="https://avatars.githubusercontent.com/u/20823832" width="75px" alt="djvelimir" />
+    <br />
+    <sub>djvelimir</sub>
+  </a>
+</td>
+<td align="center">
   <a href="https://github.com/apexiptv">
     <img src="https://avatars.githubusercontent.com/u/42727116" width="75px" alt="apexiptv" />
     <br />
@@ -88,6 +95,13 @@
     <img src="https://avatars.githubusercontent.com/u/75226058" width="75px" alt="StreamMaine" />
     <br />
     <sub>StreamMaine</sub>
+  </a>
+</td>
+<td align="center">
+  <a href="https://github.com/kazmi-0304">
+    <img src="https://avatars.githubusercontent.com/u/167667349" width="75px" alt="kazmi-0304" />
+    <br />
+    <sub>kazmi-0304</sub>
   </a>
 </td>
 <td align="center">
