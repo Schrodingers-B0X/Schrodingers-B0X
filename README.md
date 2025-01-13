@@ -20,7 +20,7 @@
 | 📁 Repository | ⭐ Stars | 🔱 Forks |
 | --- | --- | --- |
 | [3d-earth](https://github.com/Schrodingers-B0X/3d-earth) | 0 | 0 |
-| [AiO_Panel](https://github.com/Schrodingers-B0X/AiO_Panel) | 0 | 0 |
+| [AiO_Panel](https://github.com/Schrodingers-B0X/AiO_Panel) | 0 | 1 |
 | [APKBox_ThreeJS](https://github.com/Schrodingers-B0X/APKBox_ThreeJS) | 0 | 0 |
 | [ApkEncryptor](https://github.com/Schrodingers-B0X/ApkEncryptor) | 0 | 0 |
 | [ARSCStringEditor](https://github.com/Schrodingers-B0X/ARSCStringEditor) | 0 | 0 |
