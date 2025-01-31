@@ -34,7 +34,7 @@
   <!--START_SECTION:activity-->
 | Recent Activity |
 | --- |
-⭐ Starred [DevLARLEY/WidevineProxy2](https://github.com/DevLARLEY/WidevineProxy2)
+
 <!--END_SECTION:activity-->
   
   </details>
