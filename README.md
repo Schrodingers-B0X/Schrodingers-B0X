@@ -34,7 +34,7 @@
   <!--START_SECTION:activity-->
 | Recent Activity |
 | --- |
-
+⭐ Starred [Backend2121/SimpleThingsProvider](https://github.com/Backend2121/SimpleThingsProvider)
 <!--END_SECTION:activity-->
   
   </details>
