@@ -93,6 +93,13 @@
   </a>
 </td>
 <td align="center">
+  <a href="https://github.com/Suzan1994">
+    <img src="https://avatars.githubusercontent.com/u/154345801" width="75px" alt="Suzan1994" />
+    <br />
+    <sub>Suzan1994</sub>
+  </a>
+</td>
+<td align="center">
   <a href="https://github.com/kazmi-0304">
     <img src="https://avatars.githubusercontent.com/u/167667349" width="75px" alt="kazmi-0304" />
     <br />
