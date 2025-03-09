@@ -65,6 +65,13 @@
 <!--START_SECTION:followers-->
 <table>
   <tr><td align="center">
+  <a href="https://github.com/IDouble">
+    <img src="https://avatars.githubusercontent.com/u/18186995" width="75px" alt="IDouble" />
+    <br />
+    <sub>IDouble</sub>
+  </a>
+</td>
+<td align="center">
   <a href="https://github.com/djvelimir">
     <img src="https://avatars.githubusercontent.com/u/20823832" width="75px" alt="djvelimir" />
     <br />
@@ -106,7 +113,8 @@
     <sub>kazmi-0304</sub>
   </a>
 </td>
-<td align="center">
+</tr>
+<tr><td align="center">
   <a href="https://github.com/kdrebranding">
     <img src="https://avatars.githubusercontent.com/u/185684350" width="75px" alt="kdrebranding" />
     <br />
