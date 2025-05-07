@@ -93,13 +93,6 @@
   </a>
 </td>
 <td align="center">
-  <a href="https://github.com/0vm">
-    <img src="https://avatars.githubusercontent.com/u/79897291" width="75px" alt="0vm" />
-    <br />
-    <sub>0vm</sub>
-  </a>
-</td>
-<td align="center">
   <a href="https://github.com/kazmi-0304">
     <img src="https://avatars.githubusercontent.com/u/167667349" width="75px" alt="kazmi-0304" />
     <br />
@@ -113,8 +106,7 @@
     <sub>kdrebranding</sub>
   </a>
 </td>
-</tr>
-<tr><td align="center">
+<td align="center">
   <a href="https://github.com/d3v1sh">
     <img src="https://avatars.githubusercontent.com/u/206030926" width="75px" alt="d3v1sh" />
     <br />
