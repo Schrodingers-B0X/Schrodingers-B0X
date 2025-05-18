@@ -34,7 +34,7 @@
   <!--START_SECTION:activity-->
 | Recent Activity |
 | --- |
-⭐ Starred [uiverse-io/galaxy](https://github.com/uiverse-io/galaxy)
+
 <!--END_SECTION:activity-->
   
   </details>
