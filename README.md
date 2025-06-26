@@ -86,6 +86,13 @@
   </a>
 </td>
 <td align="center">
+  <a href="https://github.com/standardgalactic">
+    <img src="https://avatars.githubusercontent.com/u/43516554" width="75px" alt="standardgalactic" />
+    <br />
+    <sub>standardgalactic</sub>
+  </a>
+</td>
+<td align="center">
   <a href="https://github.com/StreamMaine">
     <img src="https://avatars.githubusercontent.com/u/75226058" width="75px" alt="StreamMaine" />
     <br />
@@ -106,15 +113,15 @@
     <sub>kazmi-0304</sub>
   </a>
 </td>
-<td align="center">
+</tr>
+<tr><td align="center">
   <a href="https://github.com/kdrebranding">
     <img src="https://avatars.githubusercontent.com/u/185684350" width="75px" alt="kdrebranding" />
     <br />
     <sub>kdrebranding</sub>
   </a>
 </td>
-</tr>
-<tr><td align="center">
+<td align="center">
   <a href="https://github.com/d3v1sh">
     <img src="https://avatars.githubusercontent.com/u/206030926" width="75px" alt="d3v1sh" />
     <br />
