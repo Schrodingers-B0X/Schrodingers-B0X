@@ -34,7 +34,7 @@
   <!--START_SECTION:activity-->
 | Recent Activity |
 | --- |
-⬆️ Pushed [1 commit(s)](https://github.com/Schrodingers-B0X/ARSCStringEditor/commits) to [Schrodingers-B0X/ARSCStringEditor](https://github.com/Schrodingers-B0X/ARSCStringEditor)
+
 <!--END_SECTION:activity-->
   
   </details>
