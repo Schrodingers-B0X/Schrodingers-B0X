@@ -93,6 +93,13 @@
   </a>
 </td>
 <td align="center">
+  <a href="https://github.com/oluiscabral">
+    <img src="https://avatars.githubusercontent.com/u/58452540" width="75px" alt="oluiscabral" />
+    <br />
+    <sub>oluiscabral</sub>
+  </a>
+</td>
+<td align="center">
   <a href="https://github.com/StreamMaine">
     <img src="https://avatars.githubusercontent.com/u/75226058" width="75px" alt="StreamMaine" />
     <br />
@@ -106,15 +113,15 @@
     <sub>marichu-kt</sub>
   </a>
 </td>
-<td align="center">
+</tr>
+<tr><td align="center">
   <a href="https://github.com/kazmi-0304">
     <img src="https://avatars.githubusercontent.com/u/167667349" width="75px" alt="kazmi-0304" />
     <br />
     <sub>kazmi-0304</sub>
   </a>
 </td>
-</tr>
-<tr><td align="center">
+<td align="center">
   <a href="https://github.com/kdrebranding">
     <img src="https://avatars.githubusercontent.com/u/185684350" width="75px" alt="kdrebranding" />
     <br />
