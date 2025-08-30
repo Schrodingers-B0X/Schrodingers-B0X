@@ -107,21 +107,14 @@
   </a>
 </td>
 <td align="center">
-  <a href="https://github.com/kazmi-0304">
-    <img src="https://avatars.githubusercontent.com/u/167667349" width="75px" alt="kazmi-0304" />
-    <br />
-    <sub>kazmi-0304</sub>
-  </a>
-</td>
-</tr>
-<tr><td align="center">
   <a href="https://github.com/kdrebranding">
     <img src="https://avatars.githubusercontent.com/u/185684350" width="75px" alt="kdrebranding" />
     <br />
     <sub>kdrebranding</sub>
   </a>
 </td>
-<td align="center">
+</tr>
+<tr><td align="center">
   <a href="https://github.com/d3v1sh">
     <img src="https://avatars.githubusercontent.com/u/206030926" width="75px" alt="d3v1sh" />
     <br />
