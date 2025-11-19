@@ -114,14 +114,6 @@
   </a>
 </td>
 </tr>
-<tr><td align="center">
-  <a href="https://github.com/d3v1sh">
-    <img src="https://avatars.githubusercontent.com/u/206030926" width="75px" alt="d3v1sh" />
-    <br />
-    <sub>d3v1sh</sub>
-  </a>
-</td>
-</tr>
 </table>
 
 <!--END_SECTION:followers-->
